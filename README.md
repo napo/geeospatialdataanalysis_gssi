@@ -26,5 +26,5 @@ The course will address the daily challenges faced by data scientists through ha
 - Spatial Relationships
 - Network Analysis in GIS
 
-Lecture 5
+# Lecture 5
 - Join the dots "Let's build the analysis of a use case together"
