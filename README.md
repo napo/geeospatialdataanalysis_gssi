@@ -3,6 +3,8 @@ The "Geospatial Data Analysis" course is designed for doctoral students from div
 In an increasingly interconnected world, geospatial data analysis is crucial for understanding complex phenomena ranging from urban mobility to social interactions. Social scientists and computer scientists, despite their different backgrounds, will find in this course a common platform to explore and analyze these data, developing complementary skills that will help them communicate effectively and work together.<br/>
 The course will address the daily challenges faced by data scientists through hands-on activities. To make the course more accessible to those with limited software development knowledge, it will begin with the representation of geospatial data. It will then delve into more specific and technical issues related to data models, how they should be managed, and how they can be utilized. Key data resources will be identified, demonstrating how to use them and providing an overview of basic geospatial analysis functions. These techniques will enable participants to query data to create services and study society.
 
+![](https://raw.githubusercontent.com/napo/geeospatialdataanalysis_gssi/main/img/cover3.jpg)
+
 ## Pre-requirements
 - Pc connected to internet
 - Google Accounts
