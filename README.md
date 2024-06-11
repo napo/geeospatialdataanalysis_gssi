@@ -13,7 +13,7 @@ The course will address the daily challenges faced by data scientists through ha
 - Visual Studio Code installed
 
 # Lecture 1:
-- Course introduction
+- [Course introduction](https://docs.google.com/presentation/d/e/2PACX-1vR6cxnjhSe7BgzFUiZeN_n__RZEVFhzY57unG_iTye1hjQl2I7-PHLA17fAl0AWVvt-rV0ILk5hG2hv/pub?start=false&loop=false&delayms=3000)
 - Tools to visualize (vector) data online
 
 # Lecture 2:
