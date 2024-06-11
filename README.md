@@ -14,7 +14,7 @@ The course will address the daily challenges faced by data scientists through ha
 
 # Lecture 1:
 - [Course introduction](https://docs.google.com/presentation/d/e/2PACX-1vR6cxnjhSe7BgzFUiZeN_n__RZEVFhzY57unG_iTye1hjQl2I7-PHLA17fAl0AWVvt-rV0ILk5hG2hv/pub?start=false&loop=false&delayms=3000)
-- Tools to visualize (vector) data online
+- [Tools to visualize (vector) data online](https://docs.google.com/presentation/d/e/2PACX-1vSC1B-MThz5FoYvCVmznkOh0Ohh6wZdK5po4mfsEvPm_qrq3hnYTF7IeHrRwyVx4xdEO8SdY36gPoJs/pub?start=false&loop=false&delayms=3000)
 
 # Lecture 2:
 - Understand the data models
