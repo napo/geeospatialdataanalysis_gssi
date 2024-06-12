@@ -17,11 +17,11 @@ The course will address the daily challenges faced by data scientists through ha
 - [Tools to visualize (vector) data online](https://docs.google.com/presentation/d/e/2PACX-1vSC1B-MThz5FoYvCVmznkOh0Ohh6wZdK5po4mfsEvPm_qrq3hnYTF7IeHrRwyVx4xdEO8SdY36gPoJs/pub?start=false&loop=false&delayms=3000)
 
 # Lecture 2:
-- Understand the data models
-- Looking for data
+- Understand the data models [slide](https://docs.google.com/presentation/d/e/2PACX-1vR1n8ltY5yFPsMOiazwNfyKrekqRgh8SYJpwAij0cOAgouPQje10W2OLSOGMvqpY-AwkCvX3HNfitTX/pub?start=false&loop=false&delayms=3000) [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/01_geospatial_vector_data.ipynb)
+- Looking for data [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/02_looking_for_data.ipynb)
 
 # Lecture 3
-- The OpenStreetMap Ecosystem
+- The OpenStreetMap Ecosystem 
 
 # Lecture 4
 - Spatial Relationships
