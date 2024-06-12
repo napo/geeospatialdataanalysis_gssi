@@ -19,7 +19,6 @@ The course will address the daily challenges faced by data scientists through ha
 # Lecture 2:
 - Understand the data models
 - Looking for data
-- Hands-on session with geopandas on google colab
 
 # Lecture 3
 - The OpenStreetMap Ecosystem
