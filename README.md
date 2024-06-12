@@ -21,7 +21,7 @@ The course will address the daily challenges faced by data scientists through ha
 - Looking for data [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/02_looking_for_data.ipynb)
 
 # Lecture 3
-- The OpenStreetMap Ecosystem 
+- The OpenStreetMap Ecosystem [slide](https://docs.google.com/presentation/d/e/2PACX-1vTQWxUuhAm8yLU0a6iTZEXawmmAPqQpPENCpPecNkGgYI81cP701YExYm2kpOP6dH9OWykzbYc6UUOW/pub?start=false&loop=false&delayms=3000) [code]() 
 
 # Lecture 4
 - Spatial Relationships
