@@ -24,8 +24,8 @@ The course will address the daily challenges faced by data scientists through ha
 - The OpenStreetMap Ecosystem [slide](https://docs.google.com/presentation/d/e/2PACX-1vTQWxUuhAm8yLU0a6iTZEXawmmAPqQpPENCpPecNkGgYI81cP701YExYm2kpOP6dH9OWykzbYc6UUOW/pub?start=false&loop=false&delayms=3000) [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/03_openstreetmap_data.ipynb) 
 
 # Lecture 4
-- Spatial Relationships
-- Network Analysis in GIS
+- Spatial Relationships [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/04_spatial_relationships_and_operations.ipynb)
+- Network Analysis in GIS [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/05_network_analisys_in_gis.ipynb)
 
 # Lecture 5
 - Join the dots "Let's build the analysis of a use case together"
