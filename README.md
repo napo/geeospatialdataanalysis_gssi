@@ -28,4 +28,4 @@ The course will address the daily challenges faced by data scientists through ha
 - Network Analysis in GIS [code](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/05_network_analisys_in_gis.ipynb)
 
 # Lecture 5
-- Join the dots "Let's build the analysis of a use case together"
+- Join the dots ["Let's build the analysis of a use case together"](https://github.com/napo/geospatialdataanalysis_gssi/blob/main/code/06_join_the_dots.ipynb)
